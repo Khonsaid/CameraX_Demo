@@ -34,7 +34,7 @@ The app is built using modern mobile development technologies:
 - **PermissionX** – Simplifies runtime permission handling
 - **FileProvider** – Secure file sharing between apps
 - **Custom Views** – Grid overlay and focus indicator
-- 
+
 ---
 
 ## 🎥 Gameplay Preview
