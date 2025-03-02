@@ -43,7 +43,7 @@ The app is built using modern mobile development technologies:
 ---
 
 ## 📥 Download
-You can download the APK file from here [here](https://github.com/Khonsaid/CameraX_Demo/raw/main/CameraXDemo.apk)
+You can download the APK file from [here](https://github.com/Khonsaid/CameraX_Demo/raw/main/CameraXDemo.apk)
 
 ---
 
